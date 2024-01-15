@@ -4,7 +4,6 @@ These nested dictionaries were able to create tables to store information and ch
 The user has the option to use of the add, remove, update and print commands craeted from functions.
 The program is run using a while loop.
 
-Author: Simone Bates
 """
 #Table 1: Students
 students = {
