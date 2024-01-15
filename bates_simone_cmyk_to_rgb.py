@@ -1,7 +1,6 @@
 """
 The purpose of this program was to create a function that received user input to cast inside a dictionary of CMYK colors(Cyan, Magenta, Yellow, Key/Black). 
 The function would then convert the dictionary to RGB colord (Red, Green, Blue) values and print them
-
 The program is used to represent how printing software conevrts between the two color models.
 Author: Simone Bates
 """
